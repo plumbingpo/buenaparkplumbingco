@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://buenaparkplumbingco.com/sitemap.xml
